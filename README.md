@@ -5,3 +5,5 @@ This project analyzes sales transaction data using SQL and Tableau to identify k
 
 ## Business Problem
 The business faces lack of visibility into which markets, products, and time periods drive revenue, therefore, make it difficult to optimizing pricing, inventory, and market startegy. Differences in purchasing behavior across large-population markets such as United States, China, and India further complicate decision-making, while revenue concentration increases risk without insights
+
+![Work Progress Flow Chart](Work_Progress_Flow_Chart_1.png)
