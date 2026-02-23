@@ -8,7 +8,7 @@ The business faces lack of visibility into which markets, products, and time per
 
 ## Methodology
 - Used **SQL and Python** to clean, aggregate, and analyze sales data, calculating core performance metrics (orders, revenue, average order value) and evaluating product, country, and unit-economic performance.
-- Conduct **time-series and seasonal analysis** to identify monthly revenue trends and compare product demand across peak and off-peak periods.
+- Conduct **time-series and seasonal analysis** to identify weekly revenue trends and compare product demand across peak and off-peak periods.
 - Visualized key inisghts in **Tableau** through interactive dashboards to support market comparison, trend analysis, and execute decision-making.
   
 ![Work Progress Flow Chart](Work_Progress_Flow_Chart_1.png)
